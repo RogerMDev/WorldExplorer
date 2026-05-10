@@ -53,4 +53,8 @@ flutter pub get
 flutter run
 ```
 
+## DEMO
+
+https://drive.google.com/file/d/1JUI0cROT2SyV33J_F_9QF1gHBSCVVECa/view?usp=sharing
+
 Mainly made for: Android.
